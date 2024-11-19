@@ -1,0 +1,1181 @@
+[
+    {
+        "SL": "",
+        "Name of Variety": "",
+        "Parentage": "",
+        "": "Crop",
+        "Eco-System": "",
+        "Salient Features": "",
+        "States": ""
+    },
+    {
+        "SL": "1",
+        "Name of Variety": "Taichung-65",
+        "Parentage": "Kameji x Shinriki",
+        "": "Rice",
+        "Eco-System": "NA",
+        "Salient Features": "Semi-dwarf, grains-coarse and glutinous",
+        "States": "Karnataka"
+    },
+    {
+        "SL": "2",
+        "Name of Variety": "Taichung Native-1",
+        "Parentage": "Dwarf Chow-wu-gen x Tsai-Yuan-Chunj",
+        "": "Rice",
+        "Eco-System": "NA",
+        "Salient Features": "Dwarf (70-75 cm), grains: short bold, moderately resistant to blast, susceptible to BLB, RTV, GM, SB and moderately susceptible to SB.",
+        "States": "Punjab"
+    },
+    {
+        "SL": "3",
+        "Name of Variety": "Jaya (IET-723)",
+        "Parentage": "T(N)1 x T-141",
+        "": "Rice",
+        "Eco-System": "Irrigated",
+        "Salient Features": "Dwarf (82 cm), grains: long bold, AWP, white, moderately susceptible to BLB, SB, RTV, GM and resistant to blast, Yield: 50-60 Q/ha.",
+        "States": "All India"
+    },
+    {
+        "SL": "4",
+        "Name of Variety": "IR-8",
+        "Parentage": "Dee-gee-woo-gen x Peta",
+        "": "Rice",
+        "Eco-System": "Irrigated/",
+        "Salient Features": "Dwarf (80-85 cm), grains: long bold, AWP, white, moderately resistant to blast, GLH, moderately susceptible to RTV and susceptible to GM, Yield: 50-55 Q/ha.",
+        "States": "Madhya Pradesh, Punjab, Orissa, Maharashtra, Bihar and Uttar Pradesh"
+    },
+    {
+        "SL": "",
+        "Name of Variety": "",
+        "Parentage": "",
+        "": "Rice",
+        "Eco-System": "Rainfed",
+        "Salient Features": "",
+        "States": ""
+    },
+    {
+        "SL": "5",
+        "Name of Variety": "Jhona-349",
+        "Parentage": "NA",
+        "": "Rice",
+        "Eco-System": "Alkaline Soil",
+        "Salient Features": "Tall, grains: long bold, white, coarse, Yield: 35-40 Q/ha.",
+        "States": "Haryana"
+    },
+    {
+        "SL": "6",
+        "Name of Variety": "N.P. 130",
+        "Parentage": "NA",
+        "": "Rice",
+        "Eco-System": "NA",
+        "Salient Features": "Tall (121 cm), grains: fine of fawn colour, Yield: 15 Q/ha.",
+        "States": "Delhi Areas"
+    },
+    {
+        "SL": "7",
+        "Name of Variety": "Manoharsali",
+        "Parentage": "Lati sali x Guachari",
+        "": "Rice",
+        "Eco-System": "NA",
+        "Salient Features": "Tall (138 cm), grains: long bold, moderately resistant to blast, moderately susceptible to BLB and resistant to GM.",
+        "States": "Assam"
+    },
+    {
+        "SL": "8",
+        "Name of Variety": "Annapurna-28",
+        "Parentage": "Taichung (Native 1) x PTB-10",
+        "": "Rice",
+        "Eco-System": "Wet Lands",
+        "Salient Features": "Dwarf, grains: red, susceptible to blast, Yield: 30-40 Q/ha.",
+        "States": "Kerala"
+    },
+    {
+        "SL": "9",
+        "Name of Variety": "Rohini (PTB-36)",
+        "Parentage": "PTB 10 x IR-8",
+        "": "Rice",
+        "Eco-System": "Kole Areas",
+        "Salient Features": "Grains: long bold, white, resistant to blast, Yield: 20 Q/ha.",
+        "States": "Kerala"
+    },
+    {
+        "SL": "10",
+        "Name of Variety": "Aswathi (PTB-37)",
+        "Parentage": "PTB 10 x Dee-gee-woo-gen",
+        "": "Rice",
+        "Eco-System": "Kole Areas",
+        "Salient Features": "Grains: long bold, white, moderately resistant to GM, moderately susceptible to BLB and BPH, Yield: 50 Q/ha.",
+        "States": "Kerala"
+    },
+    {
+        "SL": "11",
+        "Name of Variety": "Triveni (PTB-38)",
+        "Parentage": "Annapoorna x PTB-15",
+        "": "Rice",
+        "Eco-System": "Rainfed Upland or Coastal Saline",
+        "Salient Features": "Dwarf, grains: short bold, AWP, white, moderately resistant to blast, Yield: 60 Q/ha.",
+        "States": "Kerala and Pondicherry"
+    },
+    {
+        "SL": "12",
+        "Name of Variety": "Basmati-370",
+        "Parentage": "NA",
+        "": "Rice",
+        "Eco-System": "Irrigated",
+        "Salient Features": "Tall (140-150 cm), grains: LS & AWA, Yield: 22 Q/ha.",
+        "States": "Haryana"
+    },
+    {
+        "SL": "13",
+        "Name of Variety": "Palman-579",
+        "Parentage": "Introduction from IRRI",
+        "": "Rice",
+        "Eco-System": "Late Planting",
+        "Salient Features": "Grains: LS, white.",
+        "States": "Punjab"
+    },
+    {
+        "SL": "14",
+        "Name of Variety": "Hamsa",
+        "Parentage": "HR-12 x T(N) 1",
+        "": "Rice",
+        "Eco-System": "Deccan Plateau",
+        "Salient Features": "Grains: LS, cold tolerant and moderately resistant to SB.",
+        "States": "Andhra Pradesh"
+    },
+    {
+        "SL": "15",
+        "Name of Variety": "IR-20",
+        "Parentage": "IR262 x TKM-6",
+        "": "Rice",
+        "Eco-System": "Coastal Areas",
+        "Salient Features": "Semi dwarf (100-110 cm), grains-MS, moderately resistant to BLB, GLH, RTV and SB, Yield: 50-55 Q/ha.",
+        "States": "Eastern Uttar Pradesh, Bihar, West Bengal, Tamil Nadu, Karnataka and Eastern Coastal."
+    },
+    {
+        "SL": "",
+        "Name of Variety": "(IR-532-E-76)",
+        "Parentage": "",
+        "": "Rice",
+        "Eco-System": "",
+        "Salient Features": "",
+        "States": ""
+    },
+    {
+        "SL": "16",
+        "Name of Variety": "Cauvery",
+        "Parentage": "T(N)1 x TKM-6",
+        "": "Rice",
+        "Eco-System": "Rainfed Upland or Irrigated",
+        "Salient Features": "Dwarf (86 cm), grains: short bold, AWP, resistant to BLS, moderately resistant to SB, susceptible to blast, BLB, TV, GM and GPH, Yield: 35-50 Q/ha.",
+        "States": "Uttar Pradesh and Tamil Nadu."
+    },
+    {
+        "SL": "",
+        "Name of Variety": "(IET-355)",
+        "Parentage": "",
+        "": "Rice",
+        "Eco-System": "",
+        "Salient Features": "",
+        "States": ""
+    },
+    {
+        "SL": "17",
+        "Name of Variety": "Karishma",
+        "Parentage": "GEB-24 x T(N)1",
+        "": "Rice",
+        "Eco-System": "Rainfed (Late showing)",
+        "Salient Features": "Grains: MS, very high head recovery, resistant to blast, leaf spot and SB, Yield: 40 Q/ha.",
+        "States": "Tarai region of Uttar Pradesh, parts of Madhya Pradesh and Gujrat."
+    },
+    {
+        "SL": "",
+        "Name of Variety": "(CR-1-6)",
+        "Parentage": "",
+        "": "Rice",
+        "Eco-System": "",
+        "Salient Features": "",
+        "States": ""
+    },
+    {
+        "SL": "18",
+        "Name of Variety": "Ratna",
+        "Parentage": "TKM-6 x IR-8",
+        "": "Rice",
+        "Eco-System": "Upland and direct seeded",
+        "Salient Features": "Dwarf (85-90 cm), grains: LS, AWA, moderately resistant to blast, LH and tolerant to SB, Yield: 45-50 Q/ha.",
+        "States": "Bihar, Madhya Pradesh, Assam, West Bengal, Orissa, Tarai region of UP, Punjab, Haryana and Tamil Nadu."
+    },
+    {
+        "SL": "",
+        "Name of Variety": "(IET-1411)",
+        "Parentage": "",
+        "": "Rice",
+        "Eco-System": "",
+        "Salient Features": "",
+        "States": ""
+    },
+    {
+        "SL": "19",
+        "Name of Variety": "Saket-4",
+        "Parentage": "TKM-6 x IR-8",
+        "": "Rice",
+        "Eco-System": "Upland Irrigated or Rainfed",
+        "Salient Features": "Dwarf (85-90 cm), grains: LS, white, resistant to lodging, moderately resistant to BLB, GLH and SB, Yield: 45-50 Q/ha.",
+        "States": "Uttar Pradesh, Bihar and Jammu & Kashmir."
+    },
+    {
+        "SL": "",
+        "Name of Variety": "(IET-1410)",
+        "Parentage": "",
+        "": "Rice",
+        "Eco-System": "",
+        "Salient Features": "",
+        "States": ""
+    },
+    {
+        "SL": "20",
+        "Name of Variety": "China-988",
+        "Parentage": "Secondary selection from China-988",
+        "": "Rice",
+        "Eco-System": "NA",
+        "Salient Features": "Semi dwarf (100-110 cm), grains: coarse, good quality and high head recovery.",
+        "States": "Jammu & Kashmir."
+    },
+    {
+        "SL": "21",
+        "Name of Variety": "N-8",
+        "Parentage": "NA",
+        "": "Rice",
+        "Eco-System": "Hills",
+        "Salient Features": "Grains: short bold, white, moderately resistant to blast, resistant to GB & SB, Helminthosporium, Yield: 30 Q/ha.",
+        "States": "Himachal Pradesh."
+    },
+    {
+        "SL": "",
+        "Name of Variety": "(Norin-8)",
+        "Parentage": "",
+        "": "Rice",
+        "Eco-System": "",
+        "Salient Features": "",
+        "States": ""
+    },
+    {
+        "SL": "22",
+        "Name of Variety": "N-18",
+        "Parentage": "NA",
+        "": "Rice",
+        "Eco-System": "Hills",
+        "Salient Features": "Grains: short bold, white, susceptible to blast, resistant to GB, SB and Helminthosporium, Yield: 30 Q/ha.",
+        "States": "Himachal Pradesh."
+    },
+    {
+        "SL": "",
+        "Name of Variety": "(Norin-18)",
+        "Parentage": "",
+        "": "Rice",
+        "Eco-System": "",
+        "Salient Features": "",
+        "States": ""
+    },
+    {
+        "SL": "23",
+        "Name of Variety": "T-23",
+        "Parentage": "Selection from Kala Sukhdas",
+        "": "Rice",
+        "Eco-System": "Upland Irrigated",
+        "Salient Features": "Tall, grains: LS, slightly scented, Yield: 30-35 Q/ha.",
+        "States": "Uttar Pradesh and Himachal Pradesh."
+    },
+    {
+        "SL": "24",
+        "Name of Variety": "MR-136 (Madhu)",
+        "Parentage": "T(N)1 x TKM-6",
+        "": "Rice",
+        "Eco-System": "NA",
+        "Salient Features": "Dwarf (80-85 cm), grains: MS, resistant to blast, SB & BLB, Yield: 50 Q/ha.",
+        "States": "Karnataka."
+    },
+    {
+        "SL": "",
+        "Name of Variety": "(IET-2665)",
+        "Parentage": "",
+        "": "Rice",
+        "Eco-System": "",
+        "Salient Features": "",
+        "States": ""
+    },
+    {
+        "SL": "25",
+        "Name of Variety": "Jagannath",
+        "Parentage": "Mutant of T-141",
+        "": "Rice",
+        "Eco-System": "Coastal Areas",
+        "Salient Features": "Semi Dwarf (90-110 cm), grains: MS, resistant to lodging, blast & SB, Yield: 40-50 Q/ha.",
+        "States": "Coastal region of Andhra Pradesh."
+    },
+    {
+        "SL": "",
+        "Name of Variety": "(BSS-873)",
+        "Parentage": "",
+        "": "Rice",
+        "Eco-System": "",
+        "Salient Features": "",
+        "States": ""
+    },
+    {
+        "SL": "26",
+        "Name of Variety": "Tella Hamsa",
+        "Parentage": "HR-12 x T(N)1",
+        "": "Rice",
+        "Eco-System": "Irrigated Areas",
+        "Salient Features": "Grains: LS, Cold tolerant, moderately susceptible to blast and moderately resistant to SB.",
+        "States": "Andhra Pradesh."
+    },
+    {
+        "SL": "27",
+        "Name of Variety": "ORS-11",
+        "Parentage": "T-141 x IR-8-246",
+        "": "Rice",
+        "Eco-System": "Rainfed Coastal Saline",
+        "Salient Features": "Dwarf (80 cm), grains: long bold, moderately resistant to BLB, blast & GLH, susceptible to SB & GM.",
+        "States": "Orissa."
+    },
+    {
+        "SL": "28",
+        "Name of Variety": "OR10-193-2-13",
+        "Parentage": "T-90 x IR-8",
+        "": "Rice",
+        "Eco-System": "Coastal Saline",
+        "Salient Features": "Dwarf (80 cm), grains: short bold, moderately resistant to blast, BLB & GLH, susceptible to SB & GM.",
+        "States": "Orissa."
+    },
+    {
+        "SL": "",
+        "Name of Variety": "(Rajeswari)",
+        "Parentage": "",
+        "": "Rice",
+        "Eco-System": "",
+        "Salient Features": "",
+        "States": ""
+    },
+    {
+        "SL": "29",
+        "Name of Variety": "OR-10-112",
+        "Parentage": "T-90 x IR-8",
+        "": "Rice",
+        "Eco-System": "Coastal Areas",
+        "Salient Features": "Dwarf (80 cm), grains: MS.",
+        "States": "Orissa."
+    },
+    {
+        "SL": "",
+        "Name of Variety": "(Kumar)",
+        "Parentage": "",
+        "": "Rice",
+        "Eco-System": "",
+        "Salient Features": "",
+        "States": ""
+    },
+    {
+        "SL": "30",
+        "Name of Variety": "HM-95",
+        "Parentage": "Jhona 349 x T(N)1",
+        "": "Rice",
+        "Eco-System": "Irrigated Medium Early",
+        "Salient Features": "Grains: LS, 50% flowering after 73 days.",
+        "States": "Punjab."
+    },
+    {
+        "SL": "31",
+        "Name of Variety": "BR-34",
+        "Parentage": "Pureline selection from Dolangi rice",
+        "": "Rice",
+        "Eco-System": "Shallow Rainfed",
+        "Salient Features": "Tall (130-140 cm), grains: MS, white, resistant to BB & SB and tolerant to drought, Yield: 25-30 Q/ha.",
+        "States": "Bihar."
+    },
+    {
+        "SL": "1",
+        "Name of Variety": "Gujarat Anand White Maize Hybrid-2 (GAWMH-2)",
+        "Parentage": "Hybrid",
+        "": "Maize",
+        "Eco-System": "Rainfed",
+        "Salient Features": "High yield, good adaptability, drought resistance",
+        "States": "Gujarat"
+    },
+    {
+        "SL": "2",
+        "Name of Variety": "MM 9344 (DMH 192)",
+        "Parentage": "Hybrid",
+        "": "Maize",
+        "Eco-System": "Rainfed & irrigated",
+        "Salient Features": "Medium maturity, resistance to major pests",
+        "States": "Karnataka, Maharashtra, Andhra Pradesh, Tamil Nadu, Telangana"
+    },
+    {
+        "SL": "3",
+        "Name of Variety": "Bisco X 5129",
+        "Parentage": "Open-pollinated",
+        "": "Maize",
+        "Eco-System": "Irrigated",
+        "Salient Features": "Good grain quality, suitable for Rabi cultivation",
+        "States": "Maharashtra, Andhra Pradesh, Karnataka, Tamil Nadu"
+    },
+    {
+        "SL": "4",
+        "Name of Variety": "Pusa HM-9 Improved (AQH-9)",
+        "Parentage": "Quality Protein Maize (QPM)",
+        "": "Maize",
+        "Eco-System": "Rainfed",
+        "Salient Features": "High protein content, good for nutritional purposes",
+        "States": "Bihar, Jharkhand, Odisha, Uttar Pradesh, West Bengal"
+    },
+    {
+        "SL": "5",
+        "Name of Variety": "PMH 10 (Hybrid)",
+        "Parentage": "Hybrid",
+        "": "Maize",
+        "Eco-System": "Spring irrigated",
+        "Salient Features": "Early maturity, high yielding",
+        "States": "Punjab"
+    },
+    {
+        "SL": "6",
+        "Name of Variety": "PratapMakka-9 (EC-3161)",
+        "Parentage": "Hybrid",
+        "": "Maize",
+        "Eco-System": "Dual (Rainfed & Rabi)",
+        "Salient Features": "Dual season adaptability, good grain filling",
+        "States": "Rajasthan"
+    },
+    {
+        "SL": "7",
+        "Name of Variety": "CO 6",
+        "Parentage": "Hybrid",
+        "": "Maize",
+        "Eco-System": "Irrigated",
+        "Salient Features": "High yield potential, ideal for Kharif season",
+        "States": "Tamil Nadu"
+    },
+    {
+        "SL": "8",
+        "Name of Variety": "Partap Kanchan-2 WC-236 (Y)",
+        "Parentage": "Hybrid",
+        "": "Maize",
+        "Eco-System": "Rainfed",
+        "Salient Features": "Disease resistance, good grain quality",
+        "States": "Jammu & Kashmir, Uttarakhand"
+    },
+    {
+        "SL": "9",
+        "Name of Variety": "HQPM-5",
+        "Parentage": "Quality Protein Maize (QPM)",
+        "": "Maize",
+        "Eco-System": "Rainfed",
+        "Salient Features": "High lysine & tryptophan content, suitable across the country",
+        "States": "All over India"
+    },
+    {
+        "SL": "10",
+        "Name of Variety": "Navin (D-741)",
+        "Parentage": "Open-pollinated",
+        "": "Maize",
+        "Eco-System": "Irrigated",
+        "Salient Features": "High yielding, drought tolerance",
+        "States": "Uttar Pradesh"
+    },
+    {
+        "SL": "1",
+        "Name of Variety": "HD 2967",
+        "Parentage": "Cross-bred (PBW343)",
+        "": "Wheat",
+        "Eco-System": "Rainfed & Irrigated",
+        "Salient Features": "High yield, disease resistance (rusts, mildew)",
+        "States": "Punjab, Haryana, UP, Rajasthan, Bihar, MP, Gujarat"
+    },
+    {
+        "SL": "2",
+        "Name of Variety": "HD 3086 (Pusa Gautami)",
+        "Parentage": "Cross-bred variety",
+        "": "Wheat",
+        "Eco-System": "Plains & irrigated areas",
+        "Salient Features": "Disease resistance, good grain quality",
+        "States": "Punjab, Haryana, Delhi, Rajasthan, MP, Gujarat"
+    },
+    {
+        "SL": "3",
+        "Name of Variety": "HD 3090 (Pusa Amulya)",
+        "Parentage": "Cross-bred",
+        "": "Wheat",
+        "Eco-System": "Rainfed & Semi-arid",
+        "Salient Features": "Heat tolerance, good baking quality",
+        "States": "Bihar, UP, Rajasthan, Haryana, Gujarat"
+    },
+    {
+        "SL": "4",
+        "Name of Variety": "HDCSW 18",
+        "Parentage": "Hybrid",
+        "": "Wheat",
+        "Eco-System": "Northern hills & plains",
+        "Salient Features": "Disease-resistant, stable yield",
+        "States": "Himachal Pradesh, Uttarakhand, Punjab"
+    },
+    {
+        "SL": "5",
+        "Name of Variety": "HD 3117",
+        "Parentage": "Cross-bred",
+        "": "Wheat",
+        "Eco-System": "Alluvial soils & plains",
+        "Salient Features": "High yield, good tillering, drought resistance",
+        "States": "Haryana, Rajasthan, Bihar, UP, Gujarat"
+    },
+    {
+        "SL": "6",
+        "Name of Variety": "HS542",
+        "Parentage": "Cross-bred",
+        "": "Wheat",
+        "Eco-System": "Hills",
+        "Salient Features": "Suited for hilly regions, disease resistance",
+        "States": "Himachal Pradesh, Uttarakhand, North-Eastern states"
+    },
+    {
+        "SL": "7",
+        "Name of Variety": "HD 3118 (Pusa Vatsala)",
+        "Parentage": "Hybrid",
+        "": "Wheat",
+        "Eco-System": "Plains",
+        "Salient Features": "High yield, good grain quality",
+        "States": "Punjab, Haryana, UP, Bihar, West Bengal"
+    },
+    {
+        "SL": "8",
+        "Name of Variety": "HW 1098 (Nilgiri Khapli)",
+        "Parentage": "Landrace derivative",
+        "": "Wheat",
+        "Eco-System": "Warmer regions",
+        "Salient Features": "High protein, suited for health food markets",
+        "States": "Tamil Nadu, Kerala, Andhra Pradesh"
+    },
+    {
+        "SL": "9",
+        "Name of Variety": "HS562 (Central Wheat)",
+        "Parentage": "Hybrid",
+        "": "Wheat",
+        "Eco-System": "Semi-arid plains",
+        "Salient Features": "Stable yield, drought and heat tolerance",
+        "States": "Madhya Pradesh, Maharashtra, Rajasthan"
+    },
+    {
+        "SL": "10",
+        "Name of Variety": "HW 5207 (COW3)",
+        "Parentage": "Cross-bred",
+        "": "Wheat",
+        "Eco-System": "Warmer regions",
+        "Salient Features": "Disease resistance, higher yield in hot climates",
+        "States": "Tamil Nadu, Andhra Pradesh, Karnataka"
+    },
+    {
+        "SL": "11",
+        "Name of Variety": "HD 3171",
+        "Parentage": "Cross-bred",
+        "": "Wheat",
+        "Eco-System": "Plains",
+        "Salient Features": "Tolerant to rusts, heat, and waterlogging",
+        "States": "Haryana, UP, Bihar, Punjab"
+    },
+    {
+        "SL": "1",
+        "Name of Variety": "TG-39",
+        "Parentage": "N/A",
+        "": "Groundnut",
+        "Eco-System": "Arid and semi-arid region",
+        "Salient Features": "High yield potential, medium duration",
+        "States": "Rajasthan (Arid and semi-arid regions)"
+    },
+    {
+        "SL": "2",
+        "Name of Variety": "TG-51",
+        "Parentage": "BARC, Mumbai",
+        "": "Groundnut",
+        "Eco-System": "West Bengal, Odisha, Jharkhand, Assam",
+        "Salient Features": "Tolerant to stem rot and root rot; suitable for rabi-summer season",
+        "States": "West Bengal, Odisha, Jharkhand, Assam"
+    },
+    {
+        "SL": "3",
+        "Name of Variety": "Ajeya (R 2001-3)",
+        "Parentage": "UAS, Raichur",
+        "": "Groundnut",
+        "Eco-System": "South Maharashtra, Karnataka, Andhra Pradesh, Tamil Nadu",
+        "Salient Features": "Resistant to PBND; drought tolerant; recommended for kharif season",
+        "States": "South Maharashtra, Karnataka, Andhra Pradesh, Tamil Nadu"
+    },
+    {
+        "SL": "4",
+        "Name of Variety": "Girnar 2 (PBS-24030)",
+        "Parentage": "NRCG, Junagadh",
+        "": "Groundnut",
+        "Eco-System": "Uttar Pradesh, Punjab, northern Rajasthan",
+        "Salient Features": "Virginia bunch type; tolerant to rust, LLS, PSND; recommended for kharif season",
+        "States": "Uttar Pradesh, Punjab, Northern Rajasthan"
+    },
+    {
+        "SL": "5",
+        "Name of Variety": "ICGV 00348",
+        "Parentage": "TNAU, Vridhachalam",
+        "": "Groundnut",
+        "Eco-System": "South Maharashtra, Karnataka, Andhra Pradesh, Tamil Nadu",
+        "Salient Features": "Tolerant to late leaf spot and rust; recommended for kharif season",
+        "States": "South Maharashtra, Karnataka, Andhra Pradesh, Tamil Nadu"
+    },
+    {
+        "SL": "6",
+        "Name of Variety": "VRI (Gn) 7",
+        "Parentage": "TNAU, Vridhachalam",
+        "": "Groundnut",
+        "Eco-System": "Tamil Nadu",
+        "Salient Features": "Moderately resistant to leaf miner, LLS, and rust; recommended for kharif season",
+        "States": "Tamil Nadu"
+    },
+    {
+        "SL": "7",
+        "Name of Variety": "VL-Moongphali-1",
+        "Parentage": "VPKAS, Almora",
+        "": "Groundnut",
+        "Eco-System": "Uttarakhand",
+        "Salient Features": "Resistant to late leaf spot and root rot; recommended for kharif season",
+        "States": "Uttarakhand"
+    },
+    {
+        "SL": "8",
+        "Name of Variety": "Utkarsh (CSMG 9510)",
+        "Parentage": "CSAUAT, Mainpuri",
+        "": "Groundnut",
+        "Eco-System": "Uttar Pradesh, Punjab, Northern Rajasthan",
+        "Salient Features": "Resistant to rust, fresh seed dormancy up to 40-45 days; recommended for kharif season",
+        "States": "Uttar Pradesh, Punjab, Northern Rajasthan"
+    },
+    {
+        "SL": "9",
+        "Name of Variety": "VRI (Gn) 6 (VG 9816)",
+        "Parentage": "TNAU, Vridhachalam",
+        "": "Groundnut",
+        "Eco-System": "South Maharashtra, Karnataka, Andhra Pradesh, Tamil Nadu",
+        "Salient Features": "Tolerant to LLS, rust, PBND; recommended for kharif and rabi-summer seasons",
+        "States": "South Maharashtra, Karnataka, Andhra Pradesh, Tamil Nadu"
+    },
+    {
+        "SL": "10",
+        "Name of Variety": "Jawahar Groundnut 23 (JGN 23)",
+        "Parentage": "JNKVV, Khargone",
+        "": "Groundnut",
+        "Eco-System": "Madhya Pradesh",
+        "Salient Features": "Tolerant to ELS and LLS; drought tolerant; recommended for kharif season",
+        "States": "Madhya Pradesh"
+    },
+    {
+        "SL": "11",
+        "Name of Variety": "Kadiri 9",
+        "Parentage": "ANGRAU, Kadiri",
+        "": "Groundnut",
+        "Eco-System": "Andhra Pradesh",
+        "Salient Features": "Tolerant to thrips, jassids, nematodes; resistant to late leaf spot, rust, dry root rot, collar rot; recommended for kharif season",
+        "States": "Andhra Pradesh"
+    },
+    {
+        "SL": "12",
+        "Name of Variety": "Greeshma",
+        "Parentage": "ANGRAU, Tirupati",
+        "": "Groundnut",
+        "Eco-System": "Andhra Pradesh",
+        "Salient Features": "Tolerant to LLS, drought, high temperature, and aflatoxin; recommended for kharif and rabi-summer season",
+        "States": "Andhra Pradesh"
+    },
+    {
+        "SL": "13",
+        "Name of Variety": "Kadiri 7",
+        "Parentage": "ANGRAU, Kadiri",
+        "": "Groundnut",
+        "Eco-System": "Andhra Pradesh",
+        "Salient Features": "Tolerant to sucking pests and leaf spots; bold seeded (HSM =65-75 g); recommended for kharif season",
+        "States": "Andhra Pradesh"
+    },
+    {
+        "SL": "14",
+        "Name of Variety": "Kadiri 8",
+        "Parentage": "ANGRAU, Kadiri",
+        "": "Groundnut",
+        "Eco-System": "Andhra Pradesh",
+        "Salient Features": "Tolerant to sucking pests and leaf spots; bold seeded (HSM = 65-75 g)",
+        "States": "Andhra Pradesh"
+    },
+    {
+        "SL": "15",
+        "Name of Variety": "Mallika (ICHG 00440)",
+        "Parentage": "RAU, Hanumangarh",
+        "": "Groundnut",
+        "Eco-System": "All India",
+        "Salient Features": "Resistant to collar rot and PBND; bold seeded (HSM=73g); recommended for kharif season",
+        "States": "All India"
+    },
+    {
+        "SL": "16",
+        "Name of Variety": "TGLPS 3 (TDG-39)",
+        "Parentage": "UAS, Dharwad",
+        "": "Groundnut",
+        "Eco-System": "Karnataka",
+        "Salient Features": "N/A",
+        "States": "Karnataka"
+    },
+    {
+        "SL": "17",
+        "Name of Variety": "GG 21 (JSSP 15)",
+        "Parentage": "JAU, Junagadh",
+        "": "Groundnut",
+        "Eco-System": "Uttar Pradesh, Punjab, Northern Rajasthan",
+        "Salient Features": "Recommended for kharif season",
+        "States": "Uttar Pradesh, Punjab, Northern Rajasthan"
+    },
+    {
+        "SL": "18",
+        "Name of Variety": "JSP 39",
+        "Parentage": "UAS, Dharwad",
+        "": "Groundnut",
+        "Eco-System": "Andhra Pradesh, Karnataka, Tamil Nadu, Maharashtra",
+        "Salient Features": "Tolerant to foliar diseases and root rot",
+        "States": "Andhra Pradesh, Karnataka, Tamil Nadu, Maharashtra"
+    },
+    {
+        "SL": "19",
+        "Name of Variety": "JL 501",
+        "Parentage": "MPKV, Jalgaon",
+        "": "Groundnut",
+        "Eco-System": "Gujarat and southern Rajasthan",
+        "Salient Features": "Suitable for early as well as late sown rainfed conditions",
+        "States": "Gujarat, Southern Rajasthan"
+    },
+    {
+        "SL": "20",
+        "Name of Variety": "Vijetha (R 2001-2)",
+        "Parentage": "UAS, Raichur",
+        "": "Groundnut",
+        "Eco-System": "West Bengal, Odisha, Jharkhand, Maharashtra, Karnataka, Andhra Pradesh, Tamil Nadu",
+        "Salient Features": "Resistant to PBND; recommended for rabi-summer season",
+        "States": "West Bengal, Odisha, Jharkhand, Maharashtra, Karnataka, Andhra Pradesh, Tamil Nadu"
+    },
+    {
+        "SL": "21",
+        "Name of Variety": "HNG 69",
+        "Parentage": "RAU, Hanumangarh",
+        "": "Groundnut",
+        "Eco-System": "Uttar Pradesh, Punjab, Northern Rajasthan",
+        "Salient Features": "Tolerant to collar rot, stem rot, and ELS; recommended for kharif season",
+        "States": "Uttar Pradesh, Punjab, Northern Rajasthan"
+    },
+    {
+        "SL": "22",
+        "Name of Variety": "Girnar 3 (PBS 12160)",
+        "Parentage": "DGR Junagarh",
+        "": "Groundnut",
+        "Eco-System": "West Bengal, Odisha, Manipur",
+        "Salient Features": "Tolerant to leaf miner and thrips; recommended for kharif season",
+        "States": "West Bengal, Odisha, Manipur"
+    },
+    {
+        "SL": "23",
+        "Name of Variety": "Kadiri Harithanhra (K1319)",
+        "Parentage": "ANGRAU, Kadiri",
+        "": "Groundnut",
+        "Eco-System": "Karnataka and Maharashtra",
+        "Salient Features": "Multiple diseases and insect pests resistant; fresh seed dormancy up to 20 days; recommended for rabi-summer season",
+        "States": "Karnataka, Maharashtra"
+    },
+    {
+        "SL": "24",
+        "Name of Variety": "VL-Moongphali-1",
+        "Parentage": "MPKV Almora",
+        "": "Groundnut",
+        "Eco-System": "Uttarakhand",
+        "Salient Features": "Resistant to LLS and root rot diseases; recommended for kharif season",
+        "States": "Uttarakhand"
+    },
+    {
+        "SL": "25",
+        "Name of Variety": "GPBD-5",
+        "Parentage": "UAS Dharwad",
+        "": "Groundnut",
+        "Eco-System": "Jharkhand and Manipur",
+        "Salient Features": "Resistant to LLS and rust",
+        "States": "Jharkhand, Manipur"
+    },
+    {
+        "SL": "26",
+        "Name of Variety": "GJG-HPS-1 (JSP-HPS-44)",
+        "Parentage": "JAU, Junagadh",
+        "": "Groundnut",
+        "Eco-System": "Gujarat (Kharif)",
+        "Salient Features": "Rose colour seed",
+        "States": "Gujarat"
+    },
+    {
+        "SL": "27",
+        "Name of Variety": "Phule Vyas (JL-220)",
+        "Parentage": "MPKV, Jalgaon",
+        "": "Groundnut",
+        "Eco-System": "Maharashtra",
+        "Salient Features": "Early maturing, high oil content",
+        "States": "Maharashtra"
+    },
+    {
+        "SL": "28",
+        "Name of Variety": "Bheema",
+        "Parentage": "RARS, Tirupati",
+        "": "Groundnut",
+        "Eco-System": "Andhra Pradesh",
+        "Salient Features": "Suited to kharif and rabi regions",
+        "States": "Andhra Pradesh"
+    },
+    {
+        "SL": "29",
+        "Name of Variety": "Rohini",
+        "Parentage": "RARS, Tirupati",
+        "": "Groundnut",
+        "Eco-System": "Andhra Pradesh",
+        "Salient Features": "Suited to kharif and rabi areas; tolerant to mid and end season",
+        "States": "Andhra Pradesh"
+    },
+    {
+        "SL": "30",
+        "Name of Variety": "Punjab 11",
+        "Parentage": "PAU, Ludhiana",
+        "": "Groundnut",
+        "Eco-System": "Punjab and Haryana",
+        "Salient Features": "High yielding with good disease resistance (LLS, rust)",
+        "States": "Punjab, Haryana"
+    },
+    {
+        "SL": "",
+        "Name of Variety": "",
+        "Parentage": "",
+        "": "",
+        "Eco-System": "",
+        "Salient Features": "",
+        "States": ""
+    },
+    {
+        "SL": "1",
+        "Name of Variety": "Taichung-65",
+        "Parentage": "Kameji x Shinriki",
+        "": "cotton",
+        "Eco-System": "NA",
+        "Salient Features": "Semi-dwarf, grains-coarse and glutinous",
+        "States": "Karnataka (Rice)"
+    },
+    {
+        "SL": "2",
+        "Name of Variety": "SH 131",
+        "Parentage": "N/A",
+        "": "cotton",
+        "Eco-System": "Western Uttar Pradesh",
+        "Salient Features": "Fibre length of 21.5 mm, spinnable up to 30s count, GOT of 34%",
+        "States": "Uttar Pradesh, Haryana, Rajasthan (Cotton)"
+    },
+    {
+        "SL": "3",
+        "Name of Variety": "MCU 5 VT",
+        "Parentage": "N/A",
+        "": "cotton",
+        "Eco-System": "Tamil Nadu",
+        "Salient Features": "Verticillium wilt tolerant, fiber quality: length 32.16 mm, strength 24.0 g/tex",
+        "States": "Tamil Nadu, Andhra Pradesh (Cotton)"
+    },
+    {
+        "SL": "4",
+        "Name of Variety": "LRA 5166",
+        "Parentage": "N/A",
+        "": "cotton",
+        "Eco-System": "Maharashtra, Vidarbha",
+        "Salient Features": "CLCuD resistance, drought tolerant, yield under rainfed and irrigated conditions",
+        "States": "Maharashtra, Madhya Pradesh (Cotton)"
+    },
+    {
+        "SL": "5",
+        "Name of Variety": "Supriya",
+        "Parentage": "N/A",
+        "": "cotton",
+        "Eco-System": "Southern Cotton Zone",
+        "Salient Features": "Suitable for summer irrigated conditions, tolerant to Whitefly, Bacterial Blight, and moderately tolerant to Jassids",
+        "States": "Tamil Nadu, Andhra Pradesh, Karnataka (Cotton)"
+    },
+    {
+        "SL": "6",
+        "Name of Variety": "Kanchana",
+        "Parentage": "N/A",
+        "": "cotton",
+        "Eco-System": "Whitefly-prone area of southern cotton zone",
+        "Salient Features": "Whitefly tolerant",
+        "States": "Tamil Nadu, Karnataka, Andhra Pradesh (Cotton)"
+    },
+    {
+        "SL": "7",
+        "Name of Variety": "Anjali (LRK 516)",
+        "Parentage": "N/A",
+        "": "cotton",
+        "Eco-System": "Maharashtra, Gujarat, South Rajasthan",
+        "Salient Features": "Early maturing, compact, semi-dwarf, suitable for closer spacing, tolerant to Jassids",
+        "States": "Maharashtra, Gujarat, South Rajasthan (Cotton)"
+    },
+    {
+        "SL": "8",
+        "Name of Variety": "KIRAN (CNH 36)",
+        "Parentage": "N/A",
+        "": "cotton",
+        "Eco-System": "Western Maharashtra, Southern and Middle Gujarat",
+        "Salient Features": "Dwarf, early maturing, tolerant to Jassids",
+        "States": "Maharashtra, Gujarat (Cotton)"
+    },
+    {
+        "SL": "9",
+        "Name of Variety": "Arogya (NISD 2)",
+        "Parentage": "N/A",
+        "": "cotton",
+        "Eco-System": "Central Zone",
+        "Salient Features": "Resistant to Bacterial Blight, short fiber, suitable for denim and canvas",
+        "States": "Madhya Pradesh, Rajasthan (Cotton)"
+    },
+    {
+        "SL": "10",
+        "Name of Variety": "Surabhi",
+        "Parentage": "N/A",
+        "": "cotton",
+        "Eco-System": "South Zone",
+        "Salient Features": "Resistant to Verticillium wilt, Bacterial blight, and Alternaria leaf spot, extra-long staple",
+        "States": "Andhra Pradesh, Tamil Nadu, Karnataka (Cotton)"
+    },
+    {
+        "SL": "11",
+        "Name of Variety": "Sumangala",
+        "Parentage": "N/A",
+        "": "cotton",
+        "Eco-System": "South Zone",
+        "Salient Features": "Long staple, moderately resistant to sucking pests, yield potential up to 30 q/ha",
+        "States": "Andhra Pradesh, Tamil Nadu, Telangana (Cotton)"
+    },
+    {
+        "SL": "12",
+        "Name of Variety": "Pratima (CNH 120 MB)",
+        "Parentage": "N/A",
+        "": "cotton",
+        "Eco-System": "South Zone (irrigated & rainfed)",
+        "Salient Features": "Compact, early maturing, tolerant to moisture stress, synchronized boll opening, medium staple with high fiber strength",
+        "States": "Tamil Nadu, Andhra Pradesh, Karnataka (Cotton)"
+    },
+    {
+        "SL": "13",
+        "Name of Variety": "Suraj (CCH 504-4)",
+        "Parentage": "N/A",
+        "": "cotton",
+        "Eco-System": "South Zone",
+        "Salient Features": "Adaptable, sucking pest tolerant, organic cultivation, HDPS, yield potential up to 25 q/ha",
+        "States": "Tamil Nadu, Andhra Pradesh, Karnataka (Cotton)"
+    },
+    {
+        "SL": "14",
+        "Name of Variety": "Saraswati (CNHO 12)",
+        "Parentage": "N/A",
+        "": "cotton",
+        "Eco-System": "Central Zone",
+        "Salient Features": "Suitable for denim, high oil content of 21.8%, yield potential of 15-17 q/ha",
+        "States": "Madhya Pradesh, Maharashtra, Rajasthan (Cotton)"
+    },
+    {
+        "SL": "15",
+        "Name of Variety": "CCH 2623",
+        "Parentage": "N/A",
+        "": "cotton",
+        "Eco-System": "South Zone",
+        "Salient Features": "High yielding medium staple variety, tolerant to jassids and major diseases",
+        "States": "Tamil Nadu, Andhra Pradesh, Telangana (Cotton)"
+    },
+    {
+        "SL": "16",
+        "Name of Variety": "CSH 3129",
+        "Parentage": "N/A",
+        "": "cotton",
+        "Eco-System": "North Zone (Punjab, Haryana, Rajasthan)",
+        "Salient Features": "Tolerant to fungal foliar diseases, yield potential up to 22.9 q/ha",
+        "States": "Punjab, Haryana, Rajasthan, Uttar Pradesh (Cotton)"
+    },
+    {
+        "SL": "17",
+        "Name of Variety": "CSH 3075",
+        "Parentage": "N/A",
+        "": "cotton",
+        "Eco-System": "North Zone (Punjab, Haryana, Rajasthan)",
+        "Salient Features": "Suitable for high-density planting, tolerant to major biotic stress of north zone",
+        "States": "Punjab, Haryana, Rajasthan, Uttar Pradesh (Cotton)"
+    },
+    {
+        "SL": "18",
+        "Name of Variety": "Subiksha",
+        "Parentage": "N/A",
+        "": "cotton",
+        "Eco-System": "Tamil Nadu, Karnataka, Andhra Pradesh",
+        "Salient Features": "Semi-compact, resistant to Bacterial Leaf Blight and Rust, high yielding variety",
+        "States": "Tamil Nadu, Karnataka, Andhra Pradesh (Cotton)"
+    },
+    {
+        "SL": "19",
+        "Name of Variety": "Suchitra",
+        "Parentage": "N/A",
+        "": "cotton",
+        "Eco-System": "Madhya Pradesh, Maharashtra, Gujarat, Odisha, South Rajasthan",
+        "Salient Features": "Moderately tolerant to Jassids, tolerant to Grey Mildew, yield potential of 26 q/ha",
+        "States": "Madhya Pradesh, Maharashtra, Gujarat, Odisha, South Rajasthan (Cotton)"
+    },
+    {
+        "SL": "20",
+        "Name of Variety": "Sunantha",
+        "Parentage": "N/A",
+        "": "cotton",
+        "Eco-System": "Telangana, Tamil Nadu, Karnataka, Andhra Pradesh",
+        "Salient Features": "Semi-compact, long staple, resistant to Bacterial Leaf Blight, Grey Mildew, Root Rot, yield potential of 37 q/ha",
+        "States": "Telangana, Tamil Nadu, Karnataka, Andhra Pradesh (Cotton)"
+    },
+    {
+        "SL": "",
+        "Name of Variety": "",
+        "Parentage": "",
+        "": "",
+        "Eco-System": "",
+        "Salient Features": "",
+        "States": ""
+    },
+    {
+        "SL": "1",
+        "Name of Variety": "Co 6907",
+        "Parentage": "N/A",
+        "": "Sugar-Cane",
+        "Eco-System": "High yield, adaptable",
+        "Salient Features": "95 tons per hectare",
+        "States": "Suitable for various climates"
+    },
+    {
+        "SL": "2",
+        "Name of Variety": "CoC 671",
+        "Parentage": "Q 63 x Co 775",
+        "": "Sugar-Cane",
+        "Eco-System": "Thick cane, resistant to pests, high recovery",
+        "Salient Features": "135 tons per hectare (Pre-season), 126 tons sugar yield",
+        "States": "Ideal for early crushing"
+    },
+    {
+        "SL": "3",
+        "Name of Variety": "MS 7455",
+        "Parentage": "N/A",
+        "": "Sugar-Cane",
+        "Eco-System": "Disease-resistant, reliable",
+        "Salient Features": "110 tons per hectare",
+        "States": "Recommended for various soils"
+    },
+    {
+        "SL": "4",
+        "Name of Variety": "Co 7219",
+        "Parentage": "N/A",
+        "": "Sugar-Cane",
+        "Eco-System": "Disease and pest-resistant",
+        "Salient Features": "110 tons per hectare",
+        "States": "Suitable for diverse soil types"
+    },
+    {
+        "SL": "5",
+        "Name of Variety": "CO-85002",
+        "Parentage": "N/A",
+        "": "Sugar-Cane",
+        "Eco-System": "High yield, quality sugar",
+        "Salient Features": "120–130 tons per hectare",
+        "States": "Suitable for tropical regions"
+    },
+    {
+        "SL": "6",
+        "Name of Variety": "Co-86032",
+        "Parentage": "N/A",
+        "": "Sugar-Cane",
+        "Eco-System": "High sugar content, resilient",
+        "Salient Features": "90–100 tons per hectare",
+        "States": "Moderate climatic conditions"
+    },
+    {
+        "SL": "7",
+        "Name of Variety": "SNK-707",
+        "Parentage": "N/A",
+        "": "Sugar-Cane",
+        "Eco-System": "Resilient, good adaptability",
+        "Salient Features": "90–100 tons per hectare",
+        "States": "Various climates"
+    },
+    {
+        "SL": "8",
+        "Name of Variety": "CO 6304",
+        "Parentage": "N/A",
+        "": "Sugar-Cane",
+        "Eco-System": "Disease-resistant",
+        "Salient Features": "115 tons per hectare",
+        "States": "Various soils"
+    },
+    {
+        "SL": "9",
+        "Name of Variety": "COC 8001",
+        "Parentage": "N/A",
+        "": "Sugar-Cane",
+        "Eco-System": "Early harvest, high sucrose",
+        "Salient Features": "102.5 tons per hectare",
+        "States": "Early harvest regions"
+    },
+    {
+        "SL": "10",
+        "Name of Variety": "COC 85061",
+        "Parentage": "N/A",
+        "": "Sugar-Cane",
+        "Eco-System": "Robust, quality yield",
+        "Salient Features": "128.5 tons per hectare",
+        "States": "Tropical environments"
+    },
+    {
+        "SL": "11",
+        "Name of Variety": "COC 86062",
+        "Parentage": "N/A",
+        "": "Sugar-Cane",
+        "Eco-System": "Pest-resistant, high yield",
+        "Salient Features": "133.5 tons per hectare",
+        "States": "Tropical regions"
+    },
+    {
+        "SL": "12",
+        "Name of Variety": "CoSi 98071",
+        "Parentage": "N/A",
+        "": "Sugar-Cane",
+        "Eco-System": "High productivity, quality sugar",
+        "Salient Features": "144.7 tons per hectare",
+        "States": "Tropical conditions"
+    },
+    {
+        "SL": "13",
+        "Name of Variety": "Co 86249",
+        "Parentage": "N/A",
+        "": "Sugar-Cane",
+        "Eco-System": "Disease-resistant, resilient",
+        "Salient Features": "128.7 tons per hectare",
+        "States": "Tropical climates"
+    },
+    {
+        "SL": "14",
+        "Name of Variety": "CoC 99061",
+        "Parentage": "N/A",
+        "": "Sugar-Cane",
+        "Eco-System": "High quality, good recovery",
+        "Salient Features": "130.3 tons per hectare",
+        "States": "Tropical areas"
+    }
+]
